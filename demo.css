@@ -1,0 +1,12 @@
+.col-md-2{
+    overflow: hidden;
+    overflow-y: auto;
+    height: 550px;
+    scrollbar-width: 10px;
+}
+.col-md-8{
+    overflow: hidden;
+    overflow-y: auto;
+    height: 550px;
+    scrollbar-width: 10px;
+}
